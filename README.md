@@ -65,3 +65,8 @@ A fork of the Python Imaging Library (PIL), used to manage and display images su
 
 ## License
 This project is licensed under MIT License. See the [LICENSE](LICENSE.md) file for details.
+
+## Acknowledgements
+* [Tkinter](https://docs.python.org/3/library/tkinter.html) - for the GUI
+* [Pygame](https://www.pygame.org/docs/) - for handling music playback
+* [Pillow](https://python-pillow.org/) - for image handling 
