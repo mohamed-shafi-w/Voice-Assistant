@@ -1,4 +1,4 @@
-#  Web Scraper using Python with Tkinter, BeautifulSoup and Requests library
+# 1. Web Scraper using Python with Tkinter, BeautifulSoup and Requests library
 
 ## Overview
  Welcome to the Web Scraper project!
