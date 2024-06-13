@@ -31,6 +31,9 @@ Requests is designed to be user-friendly and makes interacting with web services
 ## Image
 ![web scraper](https://github.com/mohamed-shafi-w/codeclause/assets/171848531/62ebea2f-4ea6-42b8-9bb3-fb32587bc0ca)
 
+## How Does It Work
+https://github.com/mohamed-shafi-w/codeclause/assets/171848531/795ebe17-8bb1-433f-9711-7d2f593b60b1
+
 ## License
 This project is licensed under MIT License. See the [LICENSE](LICENSE.md) file for details.
 
