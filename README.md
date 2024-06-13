@@ -34,6 +34,11 @@ Requests is designed to be user-friendly and makes interacting with web services
 ## License
 This project is licensed under MIT License. See the [LICENSE](LICENSE.md) file for details.
 
+## Acknowledgements
+* [Tkinter](https://docs.python.org/3/library/tkinter.html) - for the GUI
+* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc) - for parsing HTML and extracting data
+* [Requests](https://docs.python-requests.org/en/master/) - for sending HTTP requests
+
 # 2. Music Player using Python with Tkinter, Pygame and Pillow library
 
 ## Overview
