@@ -61,3 +61,7 @@ A set of Python modules designed for writing video games, utilized here for its 
 A fork of the Python Imaging Library (PIL), used to manage and display images such as album art within the application.
 
 ## Image
+![Music Player](https://github.com/mohamed-shafi-w/codeclause/assets/171848531/1d50f9d8-7dac-47bc-a2e7-2933b702217e)
+
+## License
+This project is licensed under MIT License. See the [LICENSE](LICENSE.md) file for details.
