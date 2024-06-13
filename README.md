@@ -37,4 +37,5 @@ This project is licensed under MIT License. See the [LICENSE](LICENSE.md) file f
 # 2. Music Player using Python with Tkinter, Pygame and Pillow library
 
 ## Overview
-
+This is a simple and user-friendly music player application built using Python. It leverages the Tkinter library for the Graphical User Interface, Pygame for audio playback and Pillow for handling images.
+The application allows users to play, pause, resume and navigate through their music library with ease.
