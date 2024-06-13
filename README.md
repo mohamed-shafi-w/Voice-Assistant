@@ -28,5 +28,5 @@ Requests is a simple and elegant HTTP library for Python.
 It allows you to send HTTP requests to fetch web pages.
 Requests is designed to be user-friendly and makes interacting with web services and handling responses straightforward.
 
-
+## Image
 ![web scraper](https://github.com/mohamed-shafi-w/codeclause/assets/171848531/62ebea2f-4ea6-42b8-9bb3-fb32587bc0ca)
