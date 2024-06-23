@@ -111,3 +111,15 @@ For creating the graphical user interface.
 For handling images within the GUI.
 
 ## How Does It Works
+https://github.com/mohamed-shafi-w/codeclause/assets/171848531/daa022bb-1aee-403a-9faf-479a0d7f5b78
+
+## License
+This project is licensed under MIT License. See the [LICENSE](LICENSE.md) file for details.
+
+## Acknowledgement
+* [SpeechRecognition](https://pypi.org/project/SpeechRecognition/) - For providing a simple way to convert speech to text.
+* [pyttsx3](https://pypi.org/project/pyttsx3/) - For enabling text-to-speech conversion.
+* [pywhatkit](https://pypi.org/project/pywhatkit/) - For offering easy-to-use features like playing songs on YouTube.
+* [Wikipedia](https://pypi.org/project/wikipedia/) - For providing access to Wikipedia content.
+* [Tkinter](https://docs.python.org/3/library/tkinter.html) - For the GUI framework.
+* [Pillow](https://python-pillow.org/) - for image handling
