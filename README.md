@@ -1,4 +1,4 @@
-# 1. Web Scraper using Python with Tkinter, BeautifulSoup and Requests library
+# 1. Web Scraper
 
 ## Overview
  Welcome to the Web Scraper project!
@@ -39,7 +39,7 @@ This project is licensed under MIT License. See the [LICENSE](LICENSE.md) file f
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc) - for parsing HTML and extracting data
 * [Requests](https://docs.python-requests.org/en/master/) - for sending HTTP requests
 
-# 2. Music Player using Python with Tkinter, Pygame and Pillow library
+# 2. Music Player
 
 ## Overview
 This is a simple and user-friendly music player application built using Python. It leverages the Tkinter library for the Graphical User Interface, Pygame for audio playback and Pillow for handling images.
@@ -74,4 +74,40 @@ This project is licensed under MIT License. See the [LICENSE](LICENSE.md) file f
 ## Acknowledgements
 * [Tkinter](https://docs.python.org/3/library/tkinter.html) - for the GUI
 * [Pygame](https://www.pygame.org/docs/) - for handling music playback
-* [Pillow](https://python-pillow.org/) - for image handling 
+* [Pillow](https://python-pillow.org/) - for image handling
+
+# 3. Voice Assistant - Zarina
+## Overview
+Zarina is a Python based voice assistant that leverages various libraries to provide a wide range of functionalities. Whether you need to look up information online, play your favourite songs or checking Gmails, Zarina is here to help.
+
+## Features
+* Voice Recognition: Converts your speech to text for processing.
+* Text-to-Speech: Responds to your queries with voice output.
+* Web Searches: Performs online searches and retrieves information.
+* Wikipedia Integration: Fetches summaries from Wikipedia.
+* Music Playback: Plays songs on YouTube.
+* GUI Interface: Includes a simple graphical user interface for ease of use.
+
+## Libraries Used
+### speech_recognition
+For converting speech to text.
+### pyttsx3
+For text-to-speech conversion.
+### pywhatkit
+For playing songs on YouTube.
+### datetime
+For handling date and time functionalities.
+### wikipedia
+For retrieving information from Wikipedia.
+### webbrowser
+For opening web pages.
+### subprocess
+For running system commands.
+### sys
+For interacting with the Python interpreter.
+### tkinter
+For creating the graphical user interface.
+### pillow
+For handling images within the GUI.
+
+## How Does It Works
