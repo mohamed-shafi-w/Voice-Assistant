@@ -28,7 +28,7 @@ Requests is a simple and elegant HTTP library for Python.
 It allows you to send HTTP requests to fetch web pages.
 Requests is designed to be user-friendly and makes interacting with web services and handling responses straightforward.
 
-## How Does It Work
+## How Does It Works
 https://github.com/mohamed-shafi-w/codeclause/assets/171848531/fde9d881-07a1-4c77-85d3-39f851426bc3
 
 ## License
@@ -65,8 +65,8 @@ A set of Python modules designed for writing video games, utilized here for its 
 ### Pillow
 A fork of the Python Imaging Library (PIL), used to manage and display images such as album art within the application.
 
-## Image
-![Music Player](https://github.com/mohamed-shafi-w/codeclause/assets/171848531/1d50f9d8-7dac-47bc-a2e7-2933b702217e)
+## How Does It Works
+https://github.com/mohamed-shafi-w/codeclause/assets/171848531/c0897bcb-c73e-4534-bd44-2d84d3a119ae
 
 ## License
 This project is licensed under MIT License. See the [LICENSE](LICENSE.md) file for details.
