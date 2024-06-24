@@ -41,6 +41,7 @@ This project is licensed under MIT License. See the [LICENSE](LICENSE.md) file f
 * [Requests](https://docs.python-requests.org/en/master/) - for sending HTTP requests
 
 # 2. Music Player
+![image](https://github.com/mohamed-shafi-w/codeclause/assets/171848531/b85d8149-2457-425f-909f-d28b1ed640d9)
 
 ## Overview
 This is a simple and user-friendly music player application built using Python. It leverages the Tkinter library for the Graphical User Interface, Pygame for audio playback and Pillow for handling images.
