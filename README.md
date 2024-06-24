@@ -1,6 +1,4 @@
 # 1. Web Scraper
-![Web-Scraping](https://github.com/mohamed-shafi-w/codeclause/assets/171848531/a03134fc-e97e-438d-b12b-83ae9b981dfe)
-
 ## Overview
  Welcome to the Web Scraper project!
  This tool is a Python-based application with Graphical User Interface (GUI) built using Tkinter.
@@ -41,8 +39,6 @@ This project is licensed under MIT License. See the [LICENSE](LICENSE.md) file f
 * [Requests](https://docs.python-requests.org/en/master/) - for sending HTTP requests
 
 # 2. Music Player
-![image](https://github.com/mohamed-shafi-w/codeclause/assets/171848531/dda22b7f-baa9-49de-8824-1f0a4f3e74f7)
-
 ## Overview
 This is a simple and user-friendly music player application built using Python. It leverages the Tkinter library for the Graphical User Interface, Pygame for audio playback and Pillow for handling images.
 The application allows users to play, pause, resume and navigate through their music library with ease.
