@@ -1,4 +1,5 @@
 # 1. Web Scraper
+![Web-Scraping](https://github.com/mohamed-shafi-w/codeclause/assets/171848531/a03134fc-e97e-438d-b12b-83ae9b981dfe)
 
 ## Overview
  Welcome to the Web Scraper project!
